@@ -12,7 +12,7 @@ This page explains how to set up everything to work with the Modus Toolbox, PSoC
 ### Required Hardware
 Name         | Picture |
 ---          |---      |
-[BGT60LTR11AIP](https://www.infineon.com/cms/en/product/evaluation-boards/demo-bgt60ltr11aip/) | ![alt text](https://github.com/Infineon/radar-bgt60/blob/master/docs/img/bgt60-without-background.png)
+[BGT60LTR11AIP](https://www.infineon.com/cms/en/product/evaluation-boards/demo-bgt60ltr11aip/) | ![alt text](https://github.com/Infineon/radar-bgt60/blob/master/docs/img/bgt60-without-background.png style="max-width:100%;" width="100")
 PSoC 6 kit like [this](https://www.cypress.com/documentation/development-kitsboards/psoc-6-wi-fi-bt-prototyping-kit-cy8cproto-062-4343w) |<img src="img/CY8CPROTO_062_4343W_KitImage.png" height="80px">
 Micro-USB to USB A cable | use the cable included into the [CY8CPROTO-062-4343W Prototyping Kit](https://www.cypress.com/documentation/development-kitsboards/psoc-6-wi-fi-bt-prototyping-kit-cy8cproto-062-4343w)
 pin headers and cables | solder or plug them into the shield and prototyping kit
